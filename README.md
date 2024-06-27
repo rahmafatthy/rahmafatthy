@@ -1,5 +1,4 @@
 ![image](https://github.com/rahmafatthy/rahmafatthy/assets/111201847/f70132f4-26ff-42ef-bc26-0c2ab3755fcc)<div align="center">
-    <img src="https://github.com/rahmafatthy/rahmafatthy/blob/main/githibimg.jpg" alt="logo" width="350" height="370" />
 </div>
 <h1 align="center">Hi 👋, I'm Rahma Fatthy</h1>
 <h3 align="center">A passionate flutter developer</h3>
